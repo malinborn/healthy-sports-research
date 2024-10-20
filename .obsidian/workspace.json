@@ -1,0 +1,344 @@
+{
+  "main": {
+    "id": "476e3304a03cefd9",
+    "type": "split",
+    "children": [
+      {
+        "id": "8e7e4241d6a467ae",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "26bf2ea6a01d9734",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Калистеника.md",
+                "mode": "source",
+                "source": false
+              }
+            },
+            "group": "ce118a4fb4e68a9e"
+          },
+          {
+            "id": "3d4a8ead583a7771",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "06f1fce8912a759f",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "8726e40bab8ceefa",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "5a33f02ae2f4f9b9",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "c175f9ca4e18dcd3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Мышцы.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "00ad9cb1d96f82e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Аэробные тренировки.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b90e4440a542969d",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "51526b86f3996300",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "624823a9f31d4eef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Рост мышц.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e11dc59e2745b286",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Параллельные.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "95d0805f54b8e63a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "бицепс.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 5
+      },
+      {
+        "id": "b152c15167a1d1be",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ddaea47533cb3f04",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Калистеника.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1.0698113667809634,
+                  "close": true
+                }
+              }
+            },
+            "group": "ce118a4fb4e68a9e"
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d5f6e73ac24a9b08",
+    "type": "split",
+    "children": [
+      {
+        "id": "05f0e0f20d64a11b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eb0d846c0d4139dc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8cb39338238377e5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#START_HERE",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cdbc0230eed0b2ad",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "18b6f4184c079c6a",
+    "type": "split",
+    "children": [
+      {
+        "id": "2ebab220d817a1ba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0a5c24b584475976",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Мышцы.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2927c14aa5eac149",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Мышцы.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "18c281b0f9b51d09",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "27d6bf78a6171a7f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Мышцы.md"
+              }
+            }
+          },
+          {
+            "id": "4611c575bc2a1fdf",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "obsidian-projects:Open projects": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-kanban:Create new board": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "4611c575bc2a1fdf",
+  "lastOpenFiles": [
+    "Аэробные тренировки.md",
+    "Выносливые красные волокна.md",
+    "Центральная нервная система.md",
+    "Смешанные тренировки.md",
+    "Восстановительные тренировки.md",
+    "Биологическая база.md",
+    "_Фитнес.md",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "Мышцы.md",
+    "Калистеника.md",
+    "Кроссфит.md",
+    "Круговые.md",
+    "Пауэрлифтинг.md",
+    "бицепс.md",
+    "Тяжелая атлетика.md",
+    "Тренировочные флоу.md",
+    "Силовые тренировки.md",
+    "Рост мышц.md",
+    "Тренировка FullBody.md",
+    "Прямые-веретнообразные.md",
+    "Параллельные.md",
+    "Сильные белые волокна.md",
+    "Плоские.md",
+    "Перистые.md",
+    "Бодибилдинг.md",
+    "Разгибатели.md",
+    "Исследования"
+  ]
+}

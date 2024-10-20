@@ -1,0 +1,139 @@
+{
+  "version": 2,
+  "projects": [
+    {
+      "fieldConfig": {
+        "status_": {
+          "options": [
+            "No status",
+            "Backlog",
+            "In Progress",
+            "Done"
+          ]
+        }
+      },
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "",
+          "recursive": true
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {
+            "groupByField": "status_",
+            "columns": {
+              "No status": {
+                "records": [
+                  "Аэробные тренировки.md",
+                  "Выносливые красные волокна.md",
+                  "Восстановительные тренировки.md",
+                  "Сильные белые волокна.md",
+                  "Смешанные тренировки.md",
+                  "Тренировка Split.md",
+                  "бицепс.md",
+                  "Круговые.md",
+                  "Параллельные.md",
+                  "Перистые.md",
+                  "Плоские.md",
+                  "Прямые-веретнообразные.md",
+                  "Разгибатели.md",
+                  "Рост мышц.md",
+                  "Сгибатели.md",
+                  "Центральная нервная система.md"
+                ],
+                "weight": 0
+              },
+              "Backlog": {
+                "records": [],
+                "weight": 1
+              },
+              "In Progress": {
+                "records": [
+                  "Биологическая база.md",
+                  "Тренировочные флоу.md",
+                  "Тренировка FullBody.md",
+                  "Мышцы.md",
+                  "_Фитнес.md"
+                ],
+                "weight": 2
+              },
+              "Done": {
+                "records": [
+                  "Силовые тренировки.md",
+                  "Кроссфит.md",
+                  "Бодибилдинг.md",
+                  "Калистеника.md",
+                  "Пауэрлифтинг.md",
+                  "Тяжелая атлетика.md"
+                ],
+                "weight": 3
+              }
+            },
+            "includeFields": []
+          },
+          "filter": {
+            "conjunction": "and",
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "1b719da8-f05d-486c-9314-5d5f5922d10e",
+          "name": "Board",
+          "type": "board"
+        },
+        {
+          "config": {
+            "orderFields": [
+              "name",
+              "path",
+              "status_"
+            ],
+            "fieldConfig": {
+              "path": {
+                "width": 234
+              }
+            }
+          },
+          "filter": {
+            "conjunction": "and",
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "c11666cc-e89e-454f-b894-c35826ba774c",
+          "name": "Table",
+          "type": "table"
+        }
+      ],
+      "id": "c7fe5645-72db-4975-a032-134dd57b5b67",
+      "name": "Исследования"
+    }
+  ],
+  "archives": [],
+  "preferences": {
+    "projectSizeLimit": 1000,
+    "frontmatter": {
+      "quoteStrings": "PLAIN"
+    },
+    "locale": {
+      "firstDayOfWeek": "default"
+    },
+    "commands": [],
+    "linkBehavior": "open-note"
+  }
+}
