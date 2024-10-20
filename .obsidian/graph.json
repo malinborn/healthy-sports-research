@@ -11,14 +11,14 @@
       "query": "tag:#START_HERE",
       "color": {
         "a": 1,
-        "rgb": 10421438
+        "rgb": 8586430
       }
     },
     {
       "query": "[\"status_\":\"Done\"]",
       "color": {
         "a": 1,
-        "rgb": 1992203
+        "rgb": 2249236
       }
     },
     {
@@ -39,6 +39,6 @@
   "repelStrength": 15.4842122395833,
   "linkStrength": 0.7222900390625,
   "linkDistance": 30,
-  "scale": 0.7434672007977248,
+  "scale": 0.7375731822546978,
   "close": false
 }

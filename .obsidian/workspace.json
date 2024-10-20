@@ -21,6 +21,30 @@
             "group": "ce118a4fb4e68a9e"
           },
           {
+            "id": "fb8a2936ef520c36",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "30eb7bdc01e54cd2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Плоские.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "3d4a8ead583a7771",
             "type": "leaf",
             "state": {
@@ -56,9 +80,25 @@
             "id": "c175f9ca4e18dcd3",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "6f1093cdb1f0bec6",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "486eda7c2cc6e869",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Мышцы.md",
+                "file": "Плоские.md",
                 "mode": "source",
                 "source": false
               }
@@ -129,7 +169,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       },
       {
         "id": "b152c15167a1d1be",
@@ -237,7 +277,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Мышцы.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -254,7 +294,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Мышцы.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -277,7 +317,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Мышцы.md"
+                "file": "README.md"
               }
             }
           },
@@ -305,14 +345,21 @@
       "obsidian-projects:Open projects": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-kanban:Create new board": false,
       "templater-obsidian:Templater": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4611c575bc2a1fdf",
+  "active": "fb8a2936ef520c36",
   "lastOpenFiles": [
+    "README.md",
+    "Сгибатели.md",
+    "Мышцы.md",
+    "Калистеника.md",
+    "Плоские.md",
+    "Прямые-веретнообразные.md",
     "Аэробные тренировки.md",
+    "Кроссфит.md",
+    "LICENSE",
     "Выносливые красные волокна.md",
     "Центральная нервная система.md",
     "Смешанные тренировки.md",
@@ -321,9 +368,6 @@
     "_Фитнес.md",
     "Untitled.canvas",
     "Untitled 1.canvas",
-    "Мышцы.md",
-    "Калистеника.md",
-    "Кроссфит.md",
     "Круговые.md",
     "Пауэрлифтинг.md",
     "бицепс.md",
@@ -332,13 +376,10 @@
     "Силовые тренировки.md",
     "Рост мышц.md",
     "Тренировка FullBody.md",
-    "Прямые-веретнообразные.md",
     "Параллельные.md",
     "Сильные белые волокна.md",
-    "Плоские.md",
     "Перистые.md",
     "Бодибилдинг.md",
-    "Разгибатели.md",
     "Исследования"
   ]
 }
