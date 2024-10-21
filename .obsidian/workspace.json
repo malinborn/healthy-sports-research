@@ -8,20 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "26bf2ea6a01d9734",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Калистеника.md",
-                "mode": "source",
-                "source": false
-              }
-            },
-            "group": "ce118a4fb4e68a9e"
-          },
-          {
-            "id": "fb8a2936ef520c36",
+            "id": "0d402d27a00009cb",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -33,19 +20,19 @@
             }
           },
           {
-            "id": "30eb7bdc01e54cd2",
+            "id": "cf8d275e9692b271",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Плоские.md",
+                "file": "Тяга верхнего блока.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "3d4a8ead583a7771",
+            "id": "2b820ebc610ac981",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -53,123 +40,18 @@
             }
           },
           {
-            "id": "06f1fce8912a759f",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "8726e40bab8ceefa",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "5a33f02ae2f4f9b9",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "c175f9ca4e18dcd3",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "6f1093cdb1f0bec6",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "486eda7c2cc6e869",
+            "id": "8b88180ed2d13da9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Плоские.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "00ad9cb1d96f82e9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Аэробные тренировки.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b90e4440a542969d",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "51526b86f3996300",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "624823a9f31d4eef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Рост мышц.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e11dc59e2745b286",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Параллельные.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "95d0805f54b8e63a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "бицепс.md",
+                "file": "Чем заменить подтягивания.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "b152c15167a1d1be",
@@ -181,7 +63,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Калистеника.md",
+                "file": "README.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -208,8 +90,7 @@
                   "close": true
                 }
               }
-            },
-            "group": "ce118a4fb4e68a9e"
+            }
           }
         ]
       }
@@ -349,37 +230,39 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fb8a2936ef520c36",
+  "active": "0d402d27a00009cb",
   "lastOpenFiles": [
+    "Программа тренировок FullBody в зале.md",
+    "Подтягивания на гравитроне.md",
+    "Тяга верхнего блока.md",
+    "Чем заменить подтягивания.md",
+    "Ромбовидные мышцы спины.md",
+    "Pasted image 20241021100642.png",
+    "Подтягивания параллельным хватом.md",
+    "Калистеника.md",
+    "Тренировка FullBody.md",
+    "Плоские.md",
+    "Аэробные тренировки.md",
+    "Рост мышц.md",
+    "Параллельные.md",
+    "бицепс.md",
+    "широчайшие мышцы спины.md",
+    "Разгибание трицепса в блоке.md",
+    "Жим гантелей/штанги над головой.md",
+    "Жим гантелей",
+    "Подъем штанги на бицепс.md",
+    "Выпады.md",
+    "Тяга штанги к поясу.md",
+    "Жим штанги лёжа.md",
+    "Биологическая база.md",
     "README.md",
     "Сгибатели.md",
     "Мышцы.md",
-    "Калистеника.md",
-    "Плоские.md",
     "Прямые-веретнообразные.md",
-    "Аэробные тренировки.md",
     "Кроссфит.md",
     "LICENSE",
-    "Выносливые красные волокна.md",
-    "Центральная нервная система.md",
-    "Смешанные тренировки.md",
-    "Восстановительные тренировки.md",
-    "Биологическая база.md",
-    "_Фитнес.md",
     "Untitled.canvas",
     "Untitled 1.canvas",
-    "Круговые.md",
-    "Пауэрлифтинг.md",
-    "бицепс.md",
-    "Тяжелая атлетика.md",
-    "Тренировочные флоу.md",
-    "Силовые тренировки.md",
-    "Рост мышц.md",
-    "Тренировка FullBody.md",
-    "Параллельные.md",
-    "Сильные белые волокна.md",
-    "Перистые.md",
-    "Бодибилдинг.md",
     "Исследования"
   ]
 }
