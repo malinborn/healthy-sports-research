@@ -11,32 +11,52 @@
             "id": "0d402d27a00009cb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cf8d275e9692b271",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Тяга верхнего блока.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2b820ebc610ac981",
-            "type": "leaf",
-            "state": {
               "type": "graph",
-              "state": {}
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "cc9c9f493cd2d0ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Силовые упражнения/Жим лёжа.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Жим лёжа"
+            }
+          },
+          {
+            "id": "359a965079caecd7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Силовые упражнения/_Подбор упражнений.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "_Подбор упражнений"
+            }
+          },
+          {
+            "id": "dcae43fb8ff918e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Базовый промпт для составления карточки в GPT.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Базовый промпт для составления карточки в GPT"
             }
           },
           {
@@ -45,10 +65,33 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Чем заменить подтягивания.md",
+                "file": "Силовые упражнения/Тяга верхнего блока.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Тяга верхнего блока"
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "cf6f1db28ed31fe2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8f07199e36351896",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Силовые упражнения/Жим лёжа.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Жим лёжа"
             }
           }
         ]
@@ -63,7 +106,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "README.md",
+                "file": "Силовые упражнения/_Подбор упражнений.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -86,10 +129,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1.0698113667809634,
+                  "scale": 0.6230442073151246,
                   "close": true
                 }
-              }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph of _Подбор упражнений"
             }
           }
         ]
@@ -111,8 +156,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -121,13 +169,15 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#START_HERE",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -135,7 +185,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -158,7 +210,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +217,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
             }
           },
           {
@@ -175,10 +228,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
             }
           },
           {
@@ -189,7 +243,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -197,9 +253,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "README.md"
-              }
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
             }
           },
           {
@@ -207,7 +263,9 @@
             "type": "leaf",
             "state": {
               "type": "git-view",
-              "state": {}
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
@@ -230,36 +288,41 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0d402d27a00009cb",
+  "active": "359a965079caecd7",
   "lastOpenFiles": [
-    "Программа тренировок FullBody в зале.md",
-    "Подтягивания на гравитроне.md",
-    "Тяга верхнего блока.md",
-    "Чем заменить подтягивания.md",
-    "Ромбовидные мышцы спины.md",
-    "Pasted image 20241021100642.png",
-    "Подтягивания параллельным хватом.md",
-    "Калистеника.md",
-    "Тренировка FullBody.md",
-    "Плоские.md",
-    "Аэробные тренировки.md",
-    "Рост мышц.md",
-    "Параллельные.md",
-    "бицепс.md",
-    "широчайшие мышцы спины.md",
-    "Разгибание трицепса в блоке.md",
-    "Жим гантелей/штанги над головой.md",
-    "Жим гантелей",
-    "Подъем штанги на бицепс.md",
-    "Выпады.md",
-    "Тяга штанги к поясу.md",
-    "Жим штанги лёжа.md",
+    "Силовые упражнения/Жим лёжа.md",
+    "Силовые упражнения/_Подбор упражнений.md",
+    "Центральная нервная система.md",
+    "Мышцы/Бицепс.md",
+    "Мышцы/Параллельные.md",
+    "Тренировочные флоу/Тренировочные флоу.md",
+    "Тренировочные флоу/Тренировка FullBody.md",
+    "Силовые упражнения/Разгибание трицепса в блоке.md",
+    "Тренировочные флоу/Программа тренировок FullBody в зале.md",
+    "Тренировочные флоу/Калистеника.md",
+    "Тренировочные флоу/Бодибилдинг.md",
+    "Тренировочные флоу/Аэробные тренировки.md",
+    "Мышцы/Круговые.md",
+    "Тренировочные флоу",
+    "Тренировочные флоу/Кроссфит.md",
+    "Мышцы/Выносливые красные волокна.md",
+    "Тренировочные флоу/Восстановительные тренировки.md",
     "Биологическая база.md",
-    "README.md",
-    "Сгибатели.md",
-    "Мышцы.md",
-    "Прямые-веретнообразные.md",
-    "Кроссфит.md",
+    "Базовый промпт для составления карточки в GPT.md",
+    "Силовые упражнения/Выпады.md",
+    "Мышцы/Разгибатели.md",
+    "Тренировочные флоу/Тяжелая атлетика.md",
+    "Тренировочные флоу/Смешанные тренировки.md",
+    "Мышцы/Сильные белые волокна.md",
+    "Мышцы/широчайшие мышцы спины.md",
+    "Силовые упражнения/Чем заменить подтягивания.md",
+    "Силовые упражнения/Французский жим.md",
+    "Силовые упражнения/Pasted image 20250201164618.png",
+    "Мышцы",
+    "Силовые упражнения/Pasted image 20241021100642.png",
+    "Силовые упражнения/Pasted image 20250201150206.png",
+    "Силовые упражнения",
+    "Жим гантелей",
     "LICENSE",
     "Untitled.canvas",
     "Untitled 1.canvas",
